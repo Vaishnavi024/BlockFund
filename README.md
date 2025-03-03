@@ -79,7 +79,7 @@ npm install
 ```bash
 cd client
 ```
-### **4️⃣ Install Dependencies **
+### **4️⃣ Install Dependencies**
 ```bash
 npm install
 ```
